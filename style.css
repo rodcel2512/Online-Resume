@@ -1,11 +1,11 @@
 body{
-    background-color: #eeeeee;
+    background-color: white;
 }
 #name{
     color: black;
     text-align: center;
 }
-div{
+.box{
     display: flex;
     align-items: center; 
     justify-content: center;
@@ -13,4 +13,7 @@ div{
 
 html{
     font-family: 'Times New Roman', Times, serif;
+}
+hr{
+    width: 50%;
 }
